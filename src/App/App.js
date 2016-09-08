@@ -1,17 +1,13 @@
 import React, { Component } from 'react';
 import MainNav from '../MainNav';
-import EmployeeSalaries from '../EmployeeSalaries';
 import Expenses from '../Expenses';
-import Profit from '../Profit';
 import GraphToggle from '../GraphToggle';
 import './App.css';
 
 class App extends Component {
   componentWillMount() {
     this.state = {
-      expenses: true,
-      profit: true,
-      salaries: true
+      expenses: true
     };
   }
 
@@ -31,8 +27,6 @@ class App extends Component {
 
         <div>
           <Expenses display={this.state.expenses} />
-          <Profit display={this.state.profit} />
-          <EmployeeSalaries display={this.state.salaries} />
         </div>
       </div>
     );

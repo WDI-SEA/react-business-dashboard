@@ -5,9 +5,7 @@ import GraphToggle from './GraphToggle';
 it('renders without crashing', () => {
   const div = document.createElement('div');
   const data = {
-    salaries: true,
-    expenses: true,
-    profit: true
+    salaries: true
   }
   ReactDOM.render(<GraphToggle data={data} />, div);
 });

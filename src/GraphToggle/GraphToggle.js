@@ -12,18 +12,6 @@ class GraphToggle extends Component {
           name="graphToggle"
           onChange={() => this.props.changeHandler('expenses')} />
         <label>Expenses</label>
-        <input
-          checked={this.props.data.salaries}
-          type="checkbox"
-          name="graphToggle"
-          onChange={() => this.props.changeHandler('salaries')} />
-        <label>Salaries</label>
-        <input
-          checked={this.props.data.profit}
-          type="checkbox"
-          name="graphToggle"
-          onChange={() => this.props.changeHandler('profit')} />
-        <label>Profit</label>
       </div>
     );
   }
