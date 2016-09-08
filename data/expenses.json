@@ -1,362 +1,362 @@
 [
   {
     "date": "09-1-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 10.7,
-      "utilities": 51.5,
-      "cups": 40.42,
-      "coffee": 14.25,
-      "equipment": 159.33,
-      "salaries": 133.07
-    }
+    "expenses": [
+      130.33,
+      10.7,
+      51.5,
+      40.42,
+      14.25,
+      159.33,
+      133.07
+    ]
   },
   {
     "date": "09-2-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 16.86,
-      "utilities": 12.69,
-      "cups": 86.34,
-      "coffee": 51.08,
-      "equipment": 27.13,
-      "salaries": 167.01
-    }
+    "expenses": [
+      130.33,
+      16.86,
+      12.69,
+      86.34,
+      51.08,
+      27.13,
+      167.01
+    ]
   },
   {
     "date": "09-3-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 24.05,
-      "utilities": 48.53,
-      "cups": 70.81,
-      "coffee": 113,
-      "equipment": 138.16,
-      "salaries": 81.62
-    }
+    "expenses": [
+      130.33,
+      24.05,
+      48.53,
+      70.81,
+      113,
+      138.16,
+      81.62
+    ]
   },
   {
     "date": "09-4-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 0.88,
-      "utilities": 51.49,
-      "cups": 61.83,
-      "coffee": 75.04,
-      "equipment": 191.22,
-      "salaries": 164.06
-    }
+    "expenses": [
+      130.33,
+      0.88,
+      51.49,
+      61.83,
+      75.04,
+      191.22,
+      164.06
+    ]
   },
   {
     "date": "09-5-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 13.64,
-      "utilities": 48.83,
-      "cups": 38.42,
-      "coffee": 98.86,
-      "equipment": 107.23,
-      "salaries": 294.65
-    }
+    "expenses": [
+      130.33,
+      13.64,
+      48.83,
+      38.42,
+      98.86,
+      107.23,
+      294.65
+    ]
   },
   {
     "date": "09-6-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 19.67,
-      "utilities": 37.8,
-      "cups": 61.56,
-      "coffee": 97.51,
-      "equipment": 104.03,
-      "salaries": 100.01
-    }
+    "expenses": [
+      130.33,
+      19.67,
+      37.8,
+      61.56,
+      97.51,
+      104.03,
+      100.01
+    ]
   },
   {
     "date": "09-7-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 13.16,
-      "utilities": 38.48,
-      "cups": 49.94,
-      "coffee": 141.69,
-      "equipment": 174.94,
-      "salaries": 118.56
-    }
+    "expenses": [
+      130.33,
+      13.16,
+      38.48,
+      49.94,
+      141.69,
+      174.94,
+      118.56
+    ]
   },
   {
     "date": "09-8-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 1.3,
-      "utilities": 56.7,
-      "cups": 15.01,
-      "coffee": 64.69,
-      "equipment": 126.37,
-      "salaries": 183.74
-    }
+    "expenses": [
+      130.33,
+      1.3,
+      56.7,
+      15.01,
+      64.69,
+      126.37,
+      183.74
+    ]
   },
   {
     "date": "09-9-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 22.02,
-      "utilities": 4.46,
-      "cups": 16.42,
-      "coffee": 75.27,
-      "equipment": 3.95,
-      "salaries": 118.43
-    }
+    "expenses": [
+      130.33,
+      22.02,
+      4.46,
+      16.42,
+      75.27,
+      3.95,
+      118.43
+    ]
   },
   {
     "date": "09-10-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 27.62,
-      "utilities": 28.35,
-      "cups": 69.77,
-      "coffee": 111.1,
-      "equipment": 171.55,
-      "salaries": 172.23
-    }
+    "expenses": [
+      130.33,
+      27.62,
+      28.35,
+      69.77,
+      111.1,
+      171.55,
+      172.23
+    ]
   },
   {
     "date": "09-11-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 28.39,
-      "utilities": 22.32,
-      "cups": 79.89,
-      "coffee": 90.41,
-      "equipment": 160.91,
-      "salaries": 260.04
-    }
+    "expenses": [
+      130.33,
+      28.39,
+      22.32,
+      79.89,
+      90.41,
+      160.91,
+      260.04
+    ]
   },
   {
     "date": "09-12-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 28.66,
-      "utilities": 49.78,
-      "cups": 44.2,
-      "coffee": 64.19,
-      "equipment": 124.47,
-      "salaries": 277.13
-    }
+    "expenses": [
+      130.33,
+      28.66,
+      49.78,
+      44.2,
+      64.19,
+      124.47,
+      277.13
+    ]
   },
   {
     "date": "09-13-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 15.61,
-      "utilities": 18.07,
-      "cups": 84.68,
-      "coffee": 99.2,
-      "equipment": 207.25,
-      "salaries": 24.55
-    }
+    "expenses": [
+      130.33,
+      15.61,
+      18.07,
+      84.68,
+      99.2,
+      207.25,
+      24.55
+    ]
   },
   {
     "date": "09-14-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 3.05,
-      "utilities": 14.31,
-      "cups": 38.15,
-      "coffee": 146.79,
-      "equipment": 190.16,
-      "salaries": 206.58
-    }
+    "expenses": [
+      130.33,
+      3.05,
+      14.31,
+      38.15,
+      146.79,
+      190.16,
+      206.58
+    ]
   },
   {
     "date": "09-15-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 13.32,
-      "utilities": 37.25,
-      "cups": 68.27,
-      "coffee": 85.05,
-      "equipment": 206.2,
-      "salaries": 260.48
-    }
+    "expenses": [
+      130.33,
+      13.32,
+      37.25,
+      68.27,
+      85.05,
+      206.2,
+      260.48
+    ]
   },
   {
     "date": "09-16-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 11.86,
-      "utilities": 14.01,
-      "cups": 27.04,
-      "coffee": 133.83,
-      "equipment": 138.07,
-      "salaries": 202.39
-    }
+    "expenses": [
+      130.33,
+      11.86,
+      14.01,
+      27.04,
+      133.83,
+      138.07,
+      202.39
+    ]
   },
   {
     "date": "09-17-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 20.65,
-      "utilities": 10.88,
-      "cups": 87.28,
-      "coffee": 78.38,
-      "equipment": 154.31,
-      "salaries": 13.47
-    }
+    "expenses": [
+      130.33,
+      20.65,
+      10.88,
+      87.28,
+      78.38,
+      154.31,
+      13.47
+    ]
   },
   {
     "date": "09-18-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 1.96,
-      "utilities": 6.71,
-      "cups": 14.7,
-      "coffee": 60.88,
-      "equipment": 9.3,
-      "salaries": 258.33
-    }
+    "expenses": [
+      130.33,
+      1.96,
+      6.71,
+      14.7,
+      60.88,
+      9.3,
+      258.33
+    ]
   },
   {
     "date": "09-19-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 0.47,
-      "utilities": 56.24,
-      "cups": 73.22,
-      "coffee": 68.69,
-      "equipment": 41.9,
-      "salaries": 3.7
-    }
+    "expenses": [
+      130.33,
+      0.47,
+      56.24,
+      73.22,
+      68.69,
+      41.9,
+      3.7
+    ]
   },
   {
     "date": "09-20-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 10.6,
-      "utilities": 51.63,
-      "cups": 61.99,
-      "coffee": 24.76,
-      "equipment": 6.25,
-      "salaries": 134.47
-    }
+    "expenses": [
+      130.33,
+      10.6,
+      51.63,
+      61.99,
+      24.76,
+      6.25,
+      134.47
+    ]
   },
   {
     "date": "09-21-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 24.91,
-      "utilities": 35.65,
-      "cups": 11.92,
-      "coffee": 18.62,
-      "equipment": 17.11,
-      "salaries": 33.27
-    }
+    "expenses": [
+      130.33,
+      24.91,
+      35.65,
+      11.92,
+      18.62,
+      17.11,
+      33.27
+    ]
   },
   {
     "date": "09-22-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 12.36,
-      "utilities": 15.81,
-      "cups": 73.76,
-      "coffee": 126.46,
-      "equipment": 119.79,
-      "salaries": 89.56
-    }
+    "expenses": [
+      130.33,
+      12.36,
+      15.81,
+      73.76,
+      126.46,
+      119.79,
+      89.56
+    ]
   },
   {
     "date": "09-23-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 12.03,
-      "utilities": 26.16,
-      "cups": 86.03,
-      "coffee": 71.21,
-      "equipment": 129.38,
-      "salaries": 23.84
-    }
+    "expenses": [
+      130.33,
+      12.03,
+      26.16,
+      86.03,
+      71.21,
+      129.38,
+      23.84
+    ]
   },
   {
     "date": "09-24-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 9.33,
-      "utilities": 20.08,
-      "cups": 47.73,
-      "coffee": 149.23,
-      "equipment": 157.31,
-      "salaries": 289.5
-    }
+    "expenses": [
+      130.33,
+      9.33,
+      20.08,
+      47.73,
+      149.23,
+      157.31,
+      289.5
+    ]
   },
   {
     "date": "09-25-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 12.05,
-      "utilities": 6.39,
-      "cups": 1.97,
-      "coffee": 63.82,
-      "equipment": 27.92,
-      "salaries": 244.7
-    }
+    "expenses": [
+      130.33,
+      12.05,
+      6.39,
+      1.97,
+      63.82,
+      27.92,
+      244.7
+    ]
   },
   {
     "date": "09-26-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 3.09,
-      "utilities": 33.22,
-      "cups": 36.14,
-      "coffee": 19.8,
-      "equipment": 176.79,
-      "salaries": 158.96
-    }
+    "expenses": [
+      130.33,
+      3.09,
+      33.22,
+      36.14,
+      19.8,
+      176.79,
+      158.96
+    ]
   },
   {
     "date": "09-27-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 26.25,
-      "utilities": 39.19,
-      "cups": 59.7,
-      "coffee": 123.6,
-      "equipment": 8.91,
-      "salaries": 66.38
-    }
+    "expenses": [
+      130.33,
+      26.25,
+      39.19,
+      59.7,
+      123.6,
+      8.91,
+      66.38
+    ]
   },
   {
     "date": "09-28-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 21.08,
-      "utilities": 53.1,
-      "cups": 69.86,
-      "coffee": 68.92,
-      "equipment": 209.55,
-      "salaries": 155.6
-    }
+    "expenses": [
+      130.33,
+      21.08,
+      53.1,
+      69.86,
+      68.92,
+      209.55,
+      155.6
+    ]
   },
   {
     "date": "09-29-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 0.88,
-      "utilities": 5.09,
-      "cups": 26.87,
-      "coffee": 64.48,
-      "equipment": 94.22,
-      "salaries": 67.64
-    }
+    "expenses": [
+      130.33,
+      0.88,
+      5.09,
+      26.87,
+      64.48,
+      94.22,
+      67.64
+    ]
   },
   {
     "date": "09-30-2016",
-    "expenses": {
-      "rent": 130.33,
-      "filters": 28.79,
-      "utilities": 44.47,
-      "cups": 71.85,
-      "coffee": 86.88,
-      "equipment": 189,
-      "salaries": 84.32
-    }
+    "expenses": [
+      130.33,
+      28.79,
+      44.47,
+      71.85,
+      86.88,
+      189,
+      84.32
+    ]
   }
 ]

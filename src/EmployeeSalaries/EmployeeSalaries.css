@@ -1,0 +1,10 @@
+.EmployeeSalaries {
+  display: inline-block;
+  width: 30%;
+}
+
+@media (max-width: 900px) {
+  .EmployeeSalaries {
+    width: 100%;
+  }
+}

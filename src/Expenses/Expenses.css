@@ -1,0 +1,10 @@
+.Expenses {
+  display: inline-block;
+  width: 30%;
+}
+
+@media (max-width: 900px) {
+  .Expenses {
+    width: 100%;
+  }
+}

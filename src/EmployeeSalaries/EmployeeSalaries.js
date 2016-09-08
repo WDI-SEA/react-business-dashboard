@@ -1,11 +1,14 @@
 import React, { Component } from 'react';
 import { VictoryPie } from 'victory';
 import salaryData from '../../data/employee-monthly-salaries.json';
+import './EmployeeSalaries.css';
 
 class EmployeeSalaries extends Component {
   render() {
+    if (!this.props.display) return null;
+
     return (
-      <div>
+      <div className="EmployeeSalaries">
         <h2>Monthly Employee Salaries</h2>
         <VictoryPie
           height={500}

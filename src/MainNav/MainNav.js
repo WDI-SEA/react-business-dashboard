@@ -7,7 +7,7 @@ class MainNav extends Component {
       <div className="MainNav">
         <p className="MainNav-brand">
           <i className="fa fa-pied-piper" aria-hidden="true"></i>
-          <a href="/">DataMining Inc.</a>
+          <a href="/#">DataMining Inc.</a>
         </p>
         <p className="MainNav-description">Admin Dashboard for Yahtzee Coffee</p>
       </div>

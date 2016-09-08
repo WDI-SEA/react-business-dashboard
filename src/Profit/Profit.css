@@ -1,0 +1,10 @@
+.Profit {
+  display: inline-block;
+  width: 30%;
+}
+
+@media (max-width: 900px) {
+  .Profit {
+    width: 100%;
+  }
+}

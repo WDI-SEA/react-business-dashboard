@@ -1,10 +1,12 @@
 import React, { Component } from 'react';
 import { VictoryChart, VictoryAxis, VictoryLine } from 'victory';
-import netProfitData from '../../data/netProfit.json';
+import netProfitData from '../../data/net-profit.json';
+import './Profit.css';
 
 class Profit extends Component {
   render() {
-    console.log(netProfitData[0]);
+    if (!this.props.display) return null;
+
     let formattedProfitData = netProfitData.map(datum => {
       return {
         x: new Date(datum.date),
@@ -13,7 +15,7 @@ class Profit extends Component {
     });
 
     return (
-      <div>
+      <div className="Profit">
         <h2>September Net Profit</h2>
         <VictoryChart height={500} width={500}>
           <VictoryAxis

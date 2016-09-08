@@ -1,21 +1,21 @@
 import React, { Component } from 'react';
 import { VictoryChart, VictoryAxis, VictoryLine } from 'victory';
 import expenseData from '../../data/expenses.json';
+import './Expenses.css';
 
 class Expenses extends Component {
   render() {
-    let formattedProfitData = expenseData.map(datum => {
-      let expenseValues = Object.keys(datum.expenses)
-                          .map(key => datum.expenses[key]);
+    if (!this.props.display) return null;
 
+    let formattedProfitData = expenseData.map(datum => {
       return {
         x: new Date(datum.date),
-        y: expenseValues.reduce((total, next) => total + next)
+        y: datum.expenses.reduce((total, next) => total + next)
       };
     });
 
     return (
-      <div>
+      <div className="Expenses">
         <h2>September Expenses</h2>
         <VictoryChart height={500} width={500}>
           <VictoryAxis
