@@ -1,3 +1,8 @@
 .App {
   text-align: center;
 }
+
+.App-graph {
+  display: inline-block;
+  width: 30%;
+}

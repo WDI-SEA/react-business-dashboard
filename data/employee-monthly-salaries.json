@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Carrie Brownstein",
+    "position": "CEO",
+    "salary": 6158.23
+  },
+  {
+    "name": "Craig Bartlett",
+    "position": "Co-founder",
+    "salary": 4923.11
+  },
+  {
+    "name": "Bill Gates",
+    "position": "Barista",
+    "salary": 2732.98
+  },
+  {
+    "name": "Sir Mix-a-Lot",
+    "position": "Barista",
+    "salary": 2133.45
+  },
+  {
+    "name": "Adam West",
+    "position": "Barista",
+    "salary": 2133.45
+  },
+  {
+    "name": "Ben Gibbard",
+    "position": "Roaster",
+    "salary": 3283.18
+  }
+]
